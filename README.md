@@ -32,7 +32,7 @@ Cisco Packet Tracer is proprietary software. Please ensure you have a valid lice
 
 ## Author
 
-[@Jovan Bogovac](https://github.com/exvorn)
+[@Jovan Bogovac](https://github.com/baxvis)
 
 ## Contributing
 
